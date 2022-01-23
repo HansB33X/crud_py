@@ -1,7 +1,7 @@
 # crud_py
 crud console app with python,<br/>
 not support for win/macOS,<br/>
-run in linux terminal or termux on mobile<b,r/>
+run in linux terminal or termux on mobile<br/>
 require python 3.x or later<br/>
 
 # How to use
